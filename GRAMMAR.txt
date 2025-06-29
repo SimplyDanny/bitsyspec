@@ -14,7 +14,7 @@
 
 <read> ::= READ <var-name>
 
-<assignment> ::= <var-nam> "=" <expression>
+<assignment> ::= <var-name> "=" <expression>
 
 <expression> ::= <term> { <add-op> <term> }
 
